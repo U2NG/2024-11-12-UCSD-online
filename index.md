@@ -202,7 +202,7 @@ Modify the block below if there are any special requirements.
   They should have a few specific software packages installed (listed <a href="#setup">below</a>).
 </p>
 
-{% comment %}
+<!--{% comment %}
 ACCESSIBILITY
 
 Modify the block below if there are any barriers to accessibility or
@@ -220,7 +220,7 @@ special instructions.
     <li>Accessible restrooms are available.</li>
   </ul>
 {% endif %}
-</p>
+</p>-->
 <p>We are dedicated to providing a positive and accessible learning environment for all. 
   We do not require participants to provide documentation of disabilities or disclose any unnecessary personal information. 
   However, we do want to help create an inclusive, accessible experience for all participants. 
